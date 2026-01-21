@@ -1,4 +1,4 @@
-# fsd_1(6)
+# fsd_1(6sem)
 Login & Product Management Experiment
 1. Aim of the Experiment
 The aim of this experiment is to design a web-based login system and product management interface using React. Users should be able to:
